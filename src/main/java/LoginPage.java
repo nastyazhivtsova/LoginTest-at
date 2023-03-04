@@ -26,7 +26,4 @@ public class LoginPage {
         PasswordField.sendKeys(Password);
     }
 
-    public void ClickButton(){
-        ButtonField.click();
-    }
 }
